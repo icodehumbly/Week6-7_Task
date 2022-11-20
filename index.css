@@ -20,7 +20,7 @@ body {
 
 .container {
   /* width should not be more than 800px */
-  max-width: 800px;
+  max-width: 80%;
   position: relative;
 }
 
