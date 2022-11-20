@@ -70,7 +70,7 @@ button#prev {
   /* top of the button will be at 50% of the height of the control */
   top: 50%;
   left: -10%;
-  opacity: 0;
+  opacity: 1;
 }
 button#next {
   /* top of the button will be at 50% of the height of the control */
