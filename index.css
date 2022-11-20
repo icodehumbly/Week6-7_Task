@@ -69,13 +69,13 @@ button {
 button#prev {
   /* top of the button will be at 50% of the height of the control */
   top: 50%;
-  left: -3%;
+  left: -5%;
   
 }
 button#next {
   /* top of the button will be at 50% of the height of the control */
   top: 50%;
-  right: -3%;
+  right: -5%;
 }
 
 
